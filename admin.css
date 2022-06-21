@@ -1,0 +1,31 @@
+
+
+.button, .actionButton{
+    font-weight: bold;
+    background: blue;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    border: 0px;
+    float: left;
+    margin-right: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.actionButton{ background: orange; }
+
+table{
+    margin-top: 30px;
+    clear:both;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.patientBox{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+.patientBox label{ font-weight: bold; }
